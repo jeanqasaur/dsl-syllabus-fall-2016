@@ -82,7 +82,7 @@ Since people have been asking about the reading list, I thought I'd post it here
    * [Algorithmic Program Synthesis: Introduction](http://link.springer.com/article/10.1007%2Fs10009-013-0287-9)		
 * **Rule-based modeling.** We look at the design of Kappa and the simulation of Kappa programs.
    * [Rule-Based Modeling of Cellular Signalling](http://fontana.med.harvard.edu/www/Documents/WF/Papers/signaling.causality.pdf)
-   * [Scalable simulation of cellular signalling networks])(http://fontana.med.harvard.edu/www/Documents/WF/Papers/scalable.modeling.pdf)
+   * [Scalable simulation of cellular signalling networks](http://fontana.med.harvard.edu/www/Documents/WF/Papers/scalable.modeling.pdf)
    * [Rule-Based Languages](http://link.springer.com/article/10.1023/A:1018907806177)
 * **Static analysis of rule-based models.** Once we have rule-based models, we can analyze them using program analysis. We look at abstract interpretation analyses over Kappa.
    * [Abstract Interpretation of Cellular Signalling Networks](http://fontana.med.harvard.edu/www/Documents/WF/Papers/abstract_interpretation.pdf)
